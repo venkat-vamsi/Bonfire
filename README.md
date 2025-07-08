@@ -46,6 +46,5 @@ Bonfire is a **Flutter-based** mental health app designed to tackle increasing s
     <img src="https://github.com/user-attachments/assets/7f268471-f987-4bb4-9af5-687469ea86c8" alt="Image 2" width="200" style="padding-right: 200px;" />
     <img src="https://github.com/user-attachments/assets/848c94b4-0c27-4542-a86f-ab830d49adef" alt="Image 2" width="200" style="padding-right: 200px;" />
   <br><br>
-    <img src="https://github.com/user-attachments/assets/a56682bc-fa5d-4cb5-acf8-8dc14f48adf0" alt="Image 2" width="550" style="padding-right: 200px;" />
     <img src="https://github.com/user-attachments/assets/aeab2b1b-da08-45df-85c2-4c7c4f5fa7d5" alt="Image 2" width="200" style="padding-right: 200px;" />
 </div>
